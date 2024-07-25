@@ -2,8 +2,8 @@
 
 -   clone the url http
 -   run migration
-    php artisan migrate
+    'php artisan migrate'
 -   seed user data
-    php artisan db:seed
+    'php artisan db:seed'
 -   run the artisan server to start the project
-    php artisan serve
+    'php artisan serve'
